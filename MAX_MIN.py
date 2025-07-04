@@ -1,0 +1,5 @@
+a = (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11)
+m1 = max(a)
+m2 = min(a)
+print("maximum =", m1)
+print("minimum =", m2)
